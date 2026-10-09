@@ -1,0 +1,12 @@
+{
+    "checkOutData":{
+        "name":"Tester",
+        "lname":"user",
+        "email":"demo@yopmail.com",
+        "phone":"9876543210",
+        "address": "BCC house Monoramajanj",
+        "state":"Madhya Pradesh",
+        "city":"Indore",
+        "zipCode":"452001"
+    }
+}
