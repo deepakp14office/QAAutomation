@@ -8,5 +8,10 @@
         "state":"Madhya Pradesh",
         "city":"Indore",
         "zipCode":"452001"
+    },
+
+    "LoginDetails":{
+        "email":"testertest@yopmail.com",
+        "password":"Test@1234"
     }
 }
